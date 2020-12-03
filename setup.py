@@ -13,7 +13,7 @@ setup(
     long_description=readme,
     long_description_content_type="text/markdown",
     author='Heiko Schmidle',
-    url='https://github.com/heikoschmidle/demo',
+    url='https://github.com/heikoschmidle/demo2',
     classifiers=[
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
